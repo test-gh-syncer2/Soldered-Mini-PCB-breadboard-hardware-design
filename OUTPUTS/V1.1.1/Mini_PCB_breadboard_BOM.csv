@@ -1,0 +1,9 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**";"Version1.1.1.";1;"Version1.1.1.";;;
+2;",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,";"buzzardLabel";109;"";;;
+3;"K13,K18,K3,K6,K28,K30,K33,K26,K25,K34,K5,K19,K4,K29,K10,K27,K31,K16,K7,K23,K14,K17,K12,K24,K2,K11,K15,K32,K1,K21,K22,K20,K9,K8";"HEADER_MALE_5X1";34;"HEADER_MALE_5X1";;;
+4;"H1,H2";"HOLE_3.2mm";2;"HOLE_3.2mm";;;
+5;"G***";"Symbol-Front-Soldering";1;"LOGO";;;
+6;"REF**";"Logo-Back-SolderedFULL-15mm";1;"Logo-Front-SolderedFULL-15mm";;;
+7;"G***";"Logo-Front-Soldered-4mm";1;"LOGO";;;
+8;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
